@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rodrpa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, Javavscript, NodeJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Anime, LoFi, Finances, Music
+- 🌱 I’m currently learning Java, SpringBoot, Angular, Typescript, NodeJS/NPM
+- 💞️ I’m looking to collaborate on I try anything for 100
+- 📫 How to reach me Twitter @ codepanda404
 
 <!---
 Rodrpa/Rodrpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
