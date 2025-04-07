@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rodrpa
+- 👋 Hi, I’m @Pardor
 - 👀 I’m interested in Anime, LoFi, Finances, Music
 - 🌱 I’m currently learning Java, SpringBoot, Angular, Typescript, NodeJS/NPM
 - 📫 How to reach me Twitter @ codepanda404
